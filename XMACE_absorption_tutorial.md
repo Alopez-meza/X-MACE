@@ -112,9 +112,7 @@ Grid: 3.0 to 6.2 eV, 321 points. Then divide by the max so the peak is 1. Shape 
 
 ## 4. Make your own env on Explorer
 
-Same cluster, **your** account. Don't point at someone else's `/projects/.../envs` or their X-MACE tree. You won't own it and it dies when they move stuff.
-
-Explorer already has conda. Don't install conda.
+Explorer already has conda. Don't install conda. Check the docs just in case.
 
 ### 4.1 Create the env
 
@@ -199,7 +197,6 @@ chromophores_SVP_0.001_actual_osc_40.model
 
 ## 5. Save the script (it's in this page, nowhere else)
 
-Nobody is sending you a `.py` from another account. Paste this into a file on **your** scratch.
 
 ```bash
 cat > /scratch/$USER/src/predict_one_spectrum.py << 'EOF'
