@@ -617,23 +617,4 @@ bash check_status.sh
 
 ---
 
-## License
 
-<!-- TODO: Choose a license. MIT and BSD-3-Clause are common for academic scripts. -->
-
-See [LICENSE](LICENSE).
-
----
-
-## Citation
-
-If you use these scripts in a publication, please cite:
-
-<!-- TODO: Add citation information — your paper, DOI, or just the repo URL. -->
-
----
-
-## Acknowledgments
-
-- [TURBOMOLE](https://www.turbomole.org/) — the quantum chemistry package used for all calculations.
-- Lopez Group, Department of Chemistry and Chemical Biology, Northeastern University.
